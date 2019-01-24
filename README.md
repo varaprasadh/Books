@@ -156,6 +156,9 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [URI](https://www.urionlinejudge.com.br/judge/login) - Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
 * [UVA](https://uva.onlinejudge.org/) - Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
 
+## MACHINE LEARNING
+* [Machine learning coures by tom mitchel](www.cs.cmu.edu/~ninamf/courses/601sp15/video/1.html)-from cmu.edu
+
 ## Tools
 
 *Some tools that can help you in the learning of algorithms*
